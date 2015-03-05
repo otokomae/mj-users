@@ -1,0 +1,9 @@
+{
+    "id": "maji",
+    "comment": "Satoru Majima",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0YvzPj7voBWUHNa/ythF59r0RLyFtVbv7tDNR7b3UTFGUZTbjXgE8nit3AOqGT1PvjzCEQDCX31/xJg3Aemq62pw1K5R5iC048o+tjgT7tvr0MSkl3v39GuH/apJeAv+Xy1OaF4xRH7B4LUtmd9bkde3isRyt7xaYSrucaJn2zNq2zQUj6wnBWIDz+k0lXIPy0jqZOLFb1ixRWB0oIrma/0f7QlezvXxKdLDNgQCs2wZljSUh4qwuYXnwi+oYjGbyZDVG7PAD4R/rfRiAqOivVZSdyKPmrNvIeF6f0Cuvn3bl8IyE8YEokw2hDpJ5PgD+4Iezo1YXZTfwWUwvb3yV test",
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRBynofHhgF4Oo94NXcL94iMJYdo/jlZcmcHfGdkMGsv2OxMikFFC0CzKrlZfbLCizQckHwYZmblsLwBWYUN14GuM/RWsYhVAKc71qGDUT3KKPYPYqM6pchgr1z0MX2Z0NGP91WcC2doRQZVOgKUSHK2I6Nx8dOkxAhszzFoowQ+cP/Mz3MkQ9r9Cr5rpWKu98N8myl8swk9W6d0llLWRKuDi7JIbZJG0KwigbKceF9wo11YWDUMj6Cn84AWQWka4Y/WvW+PrlVMwQ4JgbkhICOaw6dv+I/4/mv8Z5wq7eFqLP5yLJKW46OKc4bI1BHQmxhsfUQcnTbLFLrZDLVhkZ test2"
+    ],
+    "groups": [ "sysadmin", "work" ]
+}
